@@ -10,7 +10,6 @@ class PersonalComputer(builder: Builder){
         var cpu: String = cpu
         var ram: String = "8G"
         var batteryCapacity: String = "10000mAH"
-
         var screenSize: String = "17inch"
         fun setRam(ram: String): Builder {
             this.ram = ram
