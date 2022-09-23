@@ -1,4 +1,4 @@
-package com.bn.commondesignpattern.ObserverPatterns
+package com.bn.commondesignpattern.ObserverPattern
 
 interface Observer {
     fun update(checked: Boolean)

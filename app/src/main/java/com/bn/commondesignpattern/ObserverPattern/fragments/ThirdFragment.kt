@@ -1,4 +1,4 @@
-package com.bn.commondesignpattern.ObserverPatterns.fragments
+package com.bn.commondesignpattern.ObserverPattern.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ToggleButton
 import androidx.fragment.app.Fragment
-import com.bn.commondesignpattern.ObserverPatterns.Observer
-import com.bn.commondesignpattern.ObserverPatterns.Subject
+import com.bn.commondesignpattern.ObserverPattern.Observer
+import com.bn.commondesignpattern.ObserverPattern.Subject
 import com.bn.commondesignpattern.R
 
 

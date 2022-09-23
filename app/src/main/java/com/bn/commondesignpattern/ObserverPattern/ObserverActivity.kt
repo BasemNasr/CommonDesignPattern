@@ -1,10 +1,10 @@
-package com.bn.commondesignpattern.ObserverPatterns
+package com.bn.commondesignpattern.ObserverPattern
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.FragmentManager
-import com.bn.commondesignpattern.ObserverPatterns.fragments.SecondFragment
-import com.bn.commondesignpattern.ObserverPatterns.fragments.ThirdFragment
+import com.bn.commondesignpattern.ObserverPattern.fragments.SecondFragment
+import com.bn.commondesignpattern.ObserverPattern.fragments.ThirdFragment
 import com.bn.commondesignpattern.R
 
 class ObserverActivity : AppCompatActivity() {
