@@ -7,5 +7,5 @@ Common Design Patterns In Android
 - Builder Pattern
 - Observer Pattern
 - Adapter Pattern
-- Repository Pattern 
+
 
