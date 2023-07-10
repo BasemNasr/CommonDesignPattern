@@ -6,6 +6,7 @@ Common Design Patterns In Android
 
 - Builder Pattern
 - Observer Pattern
+- Strategy Pattern
 - Adapter Pattern
 
 
@@ -39,7 +40,7 @@ Design patterns are used to represent some of the best practices adapted by expe
 
  They are discussed how classes and objects can be composed, to form larger structures such as Adapter, Facade, and Proxy.
 
-3. Behavioral Design Pattern (Observer,Mediator, and Interpreter )
+3. Behavioral Design Pattern (Observer,Mediator, and Interpreter and strategy )
 
  They are considered the interaction and responsibility of objects such as Observer, Mediator, and Interpreter.
 
@@ -81,6 +82,15 @@ adv: 1-you do not need to have all the data to pass it to your object.
  This pattern is the best approach if we have one-to-many relation
 
  and we’d like to inform other objects about some changes or actions.
+
+ 
+
+✔Strategy Pattern
+
+ Strategy design pattern takes place when you need to implement behaviour or plan. 
+ in android using this pattern for aset of data like filteration data or doing actions on data
+ without writle complex code or more if .. else.
+
 
   
 
