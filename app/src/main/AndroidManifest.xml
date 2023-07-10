@@ -15,6 +15,9 @@
         android:theme="@style/Theme.CommonDesignPattern"
         tools:targetApi="31">
         <activity
+            android:name=".StrategyPattern.StrategyActivity"
+            android:exported="false" />
+        <activity
             android:name=".ObserverActivity"
             android:exported="false" />
         <activity
